@@ -37,3 +37,4 @@ C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netco
 C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\VeterinariaWeb.App.Frontend.csproj.CopyComplete
 C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Historial\DetalleHist.cshtml.g.cs
 C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Generos\Genero.cshtml.g.cs
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Razas\Raza.cshtml.g.cs
