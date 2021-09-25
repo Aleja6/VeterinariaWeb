@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\Veterinaria.App.Persistencia\\Veterinaria.App.Persistencia.csproj",
-      "projectName": "Veterinaria.App.Persistencia",
-      "projectPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\Veterinaria.App.Persistencia\\Veterinaria.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Persistencia\\VeterinariaWeb.App.Persistencia.csproj",
+      "projectName": "VeterinariaWeb.App.Persistencia",
+      "projectPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Persistencia\\VeterinariaWeb.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-      "outputPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\Veterinaria.App.Persistencia\\obj\\",
+      "outputPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config"

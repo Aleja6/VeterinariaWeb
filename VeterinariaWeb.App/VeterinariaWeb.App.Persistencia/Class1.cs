@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Veterinaria.App.Persistencia
+namespace VeterinariaWeb.App.Persistencia
 {
     public class Class1
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Veterinaria.App.Dominio
+namespace VeterinariaWeb.App.Dominio
 {
     public class Class1
     {

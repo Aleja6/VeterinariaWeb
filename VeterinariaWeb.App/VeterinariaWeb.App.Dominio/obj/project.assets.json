@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\Veterinaria.App.Dominio\\Veterinaria.App.Dominio.csproj",
-      "projectName": "Veterinaria.App.Dominio",
-      "projectPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\Veterinaria.App.Dominio\\Veterinaria.App.Dominio.csproj",
+      "projectUniqueName": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\VeterinariaWeb.App.Dominio.csproj",
+      "projectName": "VeterinariaWeb.App.Dominio",
+      "projectPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\VeterinariaWeb.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-      "outputPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\Veterinaria.App.Dominio\\obj\\",
+      "outputPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config"

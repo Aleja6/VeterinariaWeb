@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VeterinariaWeb\\VeterinariaWeb.App\\Veterinaria.App.Persistencia\\Veterinaria.App.Persistencia.csproj": {}
+    "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\VeterinariaWeb.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\VeterinariaWeb\\VeterinariaWeb.App\\Veterinaria.App.Persistencia\\Veterinaria.App.Persistencia.csproj": {
+    "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\VeterinariaWeb.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\Veterinaria.App.Persistencia\\Veterinaria.App.Persistencia.csproj",
-        "projectName": "Veterinaria.App.Persistencia",
-        "projectPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\Veterinaria.App.Persistencia\\Veterinaria.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\VeterinariaWeb.App.Dominio.csproj",
+        "projectName": "VeterinariaWeb.App.Dominio",
+        "projectPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\VeterinariaWeb.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-        "outputPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\Veterinaria.App.Persistencia\\obj\\",
+        "outputPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config"
