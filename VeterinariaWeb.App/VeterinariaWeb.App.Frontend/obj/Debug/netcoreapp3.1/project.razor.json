@@ -14412,16 +14412,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Pages\\Generos\\Genero.cshtml",
-      "TargetPath": "Pages\\Pages\\Generos\\Genero.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Historial\\DetalleHist.cshtml",
       "TargetPath": "Pages\\Historial\\DetalleHist.cshtml",
       "FileKind": "mvc"
@@ -14429,6 +14419,11 @@
     {
       "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Propietario\\Propietario.cshtml",
       "TargetPath": "Pages\\Propietario\\Propietario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Veterinario\\Veterinario.cshtml",
+      "TargetPath": "Pages\\Veterinario\\Veterinario.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14442,11 +14437,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -14454,21 +14444,6 @@
     {
       "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Pages\\Historial\\DetalleHist.cshtml",
-      "TargetPath": "Pages\\Pages\\Historial\\DetalleHist.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Pages\\Visita\\Visita.cshtml",
-      "TargetPath": "Pages\\Pages\\Visita\\Visita.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14482,38 +14457,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\HistoriaClinica\\HistoriaClinica.cshtml",
+      "TargetPath": "Pages\\HistoriaClinica\\HistoriaClinica.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Generos\\Genero.cshtml",
       "TargetPath": "Pages\\Generos\\Genero.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\Pages\\Pages\\Razas\\Raza.cshtml",
-      "TargetPath": "Pages\\Pages\\Razas\\Raza.cshtml",
       "FileKind": "mvc"
     }
   ],
