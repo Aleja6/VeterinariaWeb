@@ -83,3 +83,9 @@ C:\Veterinaria Repositorio 3\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.Ap
 C:\Veterinaria Repositorio 3\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\VeterinariaWeb.App.Frontend.csproj.CopyComplete
 C:\Veterinaria Repositorio 3\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\HistoriaClinica\HistoriaClinica.cshtml.g.cs
 C:\Veterinaria Repositorio 3\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinario\Veterinario.cshtml.g.cs
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\HistoriaClinica\HistoriaClinica.cshtml.g.cs
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascota\Mascota.cshtml.g.cs
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Propietario\Propietario.cshtml.g.cs
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinario\Veterinario.cshtml.g.cs
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Visita\Visita.cshtml.g.cs
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Empresa\Empresa.cshtml.g.cs

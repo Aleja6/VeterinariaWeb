@@ -8,31 +8,28 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\diana\\.nuget\\packages\\": {}
+    "C:\\Users\\aleja\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\VeterinariaWeb.App.Frontend.csproj",
+      "projectUniqueName": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\VeterinariaWeb.App.Frontend.csproj",
       "projectName": "VeterinariaWeb.App.Frontend",
-      "projectPath": "C:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\VeterinariaWeb.App.Frontend.csproj",
-      "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-      "outputPath": "C:\\Veterinaria Repositorio 3\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\obj\\",
+      "projectPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\VeterinariaWeb.App.Frontend.csproj",
+      "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+      "outputPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -44,7 +41,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -63,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
       }
     }
   }
