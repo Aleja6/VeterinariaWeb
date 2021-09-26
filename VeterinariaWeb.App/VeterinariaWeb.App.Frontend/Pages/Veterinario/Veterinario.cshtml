@@ -8,18 +8,39 @@
 		<div class="login-form">
 			<div class="sign-in-htm">
 				<div class="group">
-					<label for="user" class="label">Tipo Identificación</label>
-					<input id="user" type="text" class="input">
-                    <label for="user" class="label">Número Identificación</label>
-					<input id="user" type="text" class="input">
-                    <label for="user" class="label">Nombres</label>
-					<input id="user" type="text" class="input">
-                    <label for="user" class="label">Apellidos</label>
-					<input id="user" type="text" class="input">
-                    <label for="user" class="label">Teléfono</label>
-					<input id="user" type="text" class="input">
-                    <label for="user" class="label">Tarjeta Profesional</label>
-					<input id="user" type="text" class="input">
+					<table>
+						<tr>
+							<td><label for="TipoIdentificacion" class="label">Tipo Identificación</label>
+							<input id="TipoIdentificacion" type="text" size=30 class="input"></td>
+							<td><label for="NumeroIdentificacion" class="label">Número Identificación</label>
+							<input id="NumeroIdentificacion" type="number" size=30 class="input"></td>
+						</tr>
+					</table>
+
+					<table>
+						<tr>
+							<td>
+								<label for="Nombres" class="label">Nombres</label> 
+								<input id="Nombres" type="text" size=60 class="input">
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<label for="Apellidos" class="label">Apellidos</label> 
+								<input id="Apellidos" type="text" size=60 class="input">
+							</td>
+						</tr>
+					</table>
+
+					<table>
+						<tr>
+							<td><label for="Telefono" class="label">Teléfono</label>
+							<input id="Telefono" type="number" size=30 class="input"></td>
+							<td><label for="TarjetaProfesional" class="label">Tarjeta Profesional</label>
+							<input id="TarjetaProfesional" type="text" size=30 class="input"></td>
+						</tr>
+					</table>	 
+
 				</div>
 				<div class="hr"></div>
 				<div class="group">

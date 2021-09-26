@@ -8,20 +8,41 @@
 		<div class="login-form">
 			<div class="sign-in-htm">
 				<div class="group">
-					<label for="user" class="label">Fecha y Hora</label>
-					<input id="user" type="text" class="input">
-					<label for="user" class="label">Temperatura</label>
-					<input id="user" type="text" class="input">
-					<label for="user" class="label">Peso</label>
-					<input id="user" type="text" class="input">
-					<label for="user" class="label">Frecuencia Respiratoria</label>
-					<input id="user" type="text" class="input">
-					<label for="user" class="label">Frecuencia Cardiaca</label>
-					<input id="user" type="text" class="input">
-					<label for="user" class="label">Estado Ánimo</label>
-					<input id="user" type="text" class="input">
-					<label for="user" class="label">Recomendaciones</label>
-					<input id="user" type="text" class="input">
+
+					<table>
+						<tr>
+							<td><label for="FechaHora" class="label">Fecha y Hora</label>
+							<input id="FechaHora" type="date" size=30 class="input"></td>
+							<td><label for="EstadoAnimo" class="label">Estado de Ánimo</label>
+							<input id="EstadoAnimo" type="text" size=30 class="input"></td>
+						</tr>
+
+						<tr>
+							<td><label for="Temperatura" class="label">Temperatura</label>
+							<input id="Temperatura" type="number" size=30 class="input"></td>
+							<td><label for="Peso" class="label">Peso</label>
+							<input id="Peso" type="number" size=30 class="input"></td>
+						</tr>
+
+						<tr>
+							<td><label for="FrecuenciaRespiratoria" class="label">Frecuencia Respiratoria</label>
+							<input id="FrecuenciaRespiratoria" type="number" size=30 class="input"></td>
+							<td><label for="FrecuenciaCardiaca" class="label">Frecuencia Cardiaca</label>
+							<input id="FrecuenciaCardiaca" type="number" size=30 class="input"></td>
+						</tr>
+
+					</table>
+
+					<table>
+						<tr>
+							<td>
+								<label for="user" class="label">Recomendaciones</label>
+								<textarea id="user" type="text" rows="5" cols="60" class="textarea"></textarea>
+							</td>
+						</tr>
+
+					</table>
+
 				</div>
 				<div class="hr"></div>
 				<div class="group">
