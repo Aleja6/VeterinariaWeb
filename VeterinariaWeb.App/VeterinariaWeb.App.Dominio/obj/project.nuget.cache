@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5H+BY/t6WidcX6z6FLR29ba50vWeISNn/PSBtMFGeY+gKHcZI6OqKKeiDugYs+2nYdTFQttenbZdZ8+DhxmRbw==",
+  "dgSpecHash": "IDyeeFGTPap4tKfHVrzM5cjFTtkUQTvLjCwjoM5sI6+qk+jjByG7LwrMMHEWlFLwPdlXYAxyKDRY+qLwANGIvA==",
   "success": true,
   "projectFilePath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\VeterinariaWeb.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleja\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\aleja\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\aleja\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

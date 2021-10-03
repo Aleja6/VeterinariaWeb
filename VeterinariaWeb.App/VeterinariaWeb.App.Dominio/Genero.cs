@@ -7,5 +7,5 @@ namespace VeterinariaWeb.App.Dominio
         Macho,
         Hembra,
     }
-    }
+    
 }

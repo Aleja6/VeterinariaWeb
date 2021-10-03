@@ -35,9 +35,6 @@ C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netco
 C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\VeterinariaWeb.App.Frontend.pdb
 C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\VeterinariaWeb.App.Frontend.genruntimeconfig.cache
 C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\VeterinariaWeb.App.Frontend.csproj.CopyComplete
-C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Historial\DetalleHist.cshtml.g.cs
-C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Generos\Genero.cshtml.g.cs
-C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Razas\Raza.cshtml.g.cs
 C:\Veterinaria Repositorio 3\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Veterinaria Repositorio 3\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Veterinaria Repositorio 3\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\bin\Debug\netcoreapp3.1\VeterinariaWeb.App.Frontend.exe
@@ -89,3 +86,13 @@ C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netco
 C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinario\Veterinario.cshtml.g.cs
 C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Visita\Visita.cshtml.g.cs
 C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Empresa\Empresa.cshtml.g.cs
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\DetalleHistorial\DetalleHist.cshtml.g.cs
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\bin\Debug\netcoreapp3.1\VeterinariaWeb.App.Dominio.dll
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\bin\Debug\netcoreapp3.1\VeterinariaWeb.App.Persistencia.dll
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\bin\Debug\netcoreapp3.1\VeterinariaWeb.App.Dominio.pdb
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\bin\Debug\netcoreapp3.1\VeterinariaWeb.App.Persistencia.pdb
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Razas\Details.cshtml.g.cs
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Razas\Edit.cshtml.g.cs
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Razas\List.cshtml.g.cs
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Generos\Genero.cshtml.g.cs

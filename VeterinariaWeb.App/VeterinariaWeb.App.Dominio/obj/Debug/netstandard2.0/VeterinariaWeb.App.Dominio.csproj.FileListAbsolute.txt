@@ -1,0 +1,9 @@
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Dominio\obj\Debug\netstandard2.0\VeterinariaWeb.App.Dominio.csprojAssemblyReference.cache
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Dominio\obj\Debug\netstandard2.0\VeterinariaWeb.App.Dominio.AssemblyInfoInputs.cache
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Dominio\obj\Debug\netstandard2.0\VeterinariaWeb.App.Dominio.AssemblyInfo.cs
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Dominio\obj\Debug\netstandard2.0\VeterinariaWeb.App.Dominio.csproj.CoreCompileInputs.cache
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Dominio\bin\Debug\netstandard2.0\VeterinariaWeb.App.Dominio.deps.json
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Dominio\bin\Debug\netstandard2.0\VeterinariaWeb.App.Dominio.dll
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Dominio\bin\Debug\netstandard2.0\VeterinariaWeb.App.Dominio.pdb
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Dominio\obj\Debug\netstandard2.0\VeterinariaWeb.App.Dominio.dll
+C:\VeterinariaWeb\VeterinariaWeb.App\VeterinariaWeb.App.Dominio\obj\Debug\netstandard2.0\VeterinariaWeb.App.Dominio.pdb

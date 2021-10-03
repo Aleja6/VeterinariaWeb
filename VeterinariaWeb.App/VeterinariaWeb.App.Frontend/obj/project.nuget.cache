@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AO8uGT+H9k1UzbShuGN/DiqoK+zgXLM24IGm96h/htuegms0swFuGixUzSle96OlClfzCbjiqSdzFYS5AK9m1A==",
+  "dgSpecHash": "9BZYFdNzc7YnyhHLdZ8uQp+0NCg7hh1xrtyUarghEUnlYyVgDmAXNNjbdtZh09gJmY1dLcNckhz/LJJXz6egxQ==",
   "success": true,
   "projectFilePath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Frontend\\VeterinariaWeb.App.Frontend.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aleja\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

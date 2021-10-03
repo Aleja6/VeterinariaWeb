@@ -1,5 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
+  <ItemGroup>
+    <ProjectReference Include="..\VeterinariaWeb.App.Dominio\VeterinariaWeb.App.Dominio.csproj" />
+    <ProjectReference Include="..\VeterinariaWeb.App.Persistencia\VeterinariaWeb.App.Persistencia.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>

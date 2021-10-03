@@ -4,6 +4,63 @@
     "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Persistencia\\VeterinariaWeb.App.Persistencia.csproj": {}
   },
   "projects": {
+    "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\VeterinariaWeb.App.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\VeterinariaWeb.App.Dominio.csproj",
+        "projectName": "VeterinariaWeb.App.Dominio",
+        "projectPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\VeterinariaWeb.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Persistencia\\VeterinariaWeb.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -24,7 +81,11 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\VeterinariaWeb.App.Dominio.csproj": {
+                "projectPath": "C:\\VeterinariaWeb\\VeterinariaWeb.App\\VeterinariaWeb.App.Dominio\\VeterinariaWeb.App.Dominio.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
